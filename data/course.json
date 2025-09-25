@@ -1,0 +1,43 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Astrophysics"
+    ]
+  ],
+  "legacy_uid": "48009d69-3ebc-fa06-6ff5-e7d2023f7367",
+  "instructors": {
+    "content": [
+      "a16d0fec-adce-ec6a-10b1-d8153a7427e6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9a67f4ce-f2d9-dbe9-258b-d862f4145b02",
+    "website": "8-901-astrophysics-i-spring-2006"
+  },
+  "course_title": "Astrophysics I",
+  "course_description": "This course provides a graduate-level introduction to stellar astrophysics. It covers a variety of topics, ranging from stellar structure and evolution to galactic dynamics and dark matter.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.901",
+  "course_image_thumbnail": {
+    "content": "8ad7611a-631e-54d4-7096-4806f9fd0425",
+    "website": "8-901-astrophysics-i-spring-2006"
+  },
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "c263d112-c29d-4108-95f0-618b7f92fcf6",
+  "site_short_id": "8.901-spring-2006",
+  "site_url_path": "courses/8-901-astrophysics-i-spring-2006",
+  "title": "Course Metadata"
+}
