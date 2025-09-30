@@ -5,6 +5,8 @@ description: This resource contains problem based on properties of a white dwarf
 file: /courses/8-901-astrophysics-i-spring-2006/8287551bd830b992ac1c1c6295053bd6_ps6.pdf
 file_size: 69852
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
