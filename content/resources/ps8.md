@@ -6,8 +6,6 @@ description: This resource contains problem based on incompressible fluid model 
 file: /courses/8-901-astrophysics-i-spring-2006/2b09512c550ee542438d52df9b3837f1_ps8.pdf
 file_size: 81417
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

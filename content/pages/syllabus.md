@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains information on course description, textbooks, prerequisites,
   grading policy.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
